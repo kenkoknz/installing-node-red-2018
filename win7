@@ -14,7 +14,7 @@ chk ver in cmd: node --version && npm --version;
 
 To install use run cmd as admin: npm install -g --unsafe-perm node-red
 
-to run: node-red
+to run: node-red; then pont bowser to 127.0.0.1:1880
 
 add extra nodes: pallete add dashboard and arduino
 
