@@ -2,4 +2,20 @@ win7:
 
 https://nodered.org/docs/platforms/windows
 
-run cmd as admin: https://www.youtube.com/watch?v=EohzkYPV6nI   ie windows\system32>
+note:to run in power shell: To open an elevated PowerShell prompt, in the taskbar search, type powershell. Now see the result Windows PowerShell which appears on the top. Right-click on it and select Run as Administrator 
+
+To install use run cmd as admin: https://www.youtube.com/watch?v=EohzkYPV6nI   ie windows\system32>
+
+1 install node.js ; download msi (8.11.2 ; jun18) at https://nodejs.org/en/
+
+chk ver in cmd: node --version && npm --version; 
+
+2. install node red
+
+To install use run cmd as admin: npm install -g --unsafe-perm node-red
+
+to run: node-red
+
+add extra nodes: pallete add dashboard and arduino
+
+
