@@ -18,4 +18,12 @@ to run: node-red; then pont bowser to 127.0.0.1:1880
 
 add extra nodes: pallete add dashboard and arduino
 
+starting: If you have installed Node-RED as a global npm package, you can use the node-red command
+
+
+You can then access the Node-RED editor by pointing your browser at http://localhost:1880.
+
+Stop: ctr c in terminal you ran nodered
+
+
 
