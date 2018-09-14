@@ -27,3 +27,10 @@ Stop: ctr c in terminal you ran nodered
 
 
 
+*Node red should be in dir .node-red
+install nodes e.g change dir to .node-red: npm install node-red-contrib-blockly
+
+
+
+
+
